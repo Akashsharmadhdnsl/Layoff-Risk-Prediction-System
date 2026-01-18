@@ -1,0 +1,50 @@
+## 🎯 Why I Created LayoffShield AI
+
+### The Problem I Wanted to Solve
+
+In today’s job market, layoffs are often sudden and unpredictable. Most professionals only react **after** they lose their jobs. There is no early warning system that helps individuals understand whether they are at risk and what they can do **before** a layoff happens.
+
+Having personally experienced repeated rejections and uncertainty in the job market, I wanted to build something practical — not just a model that predicts layoffs, but a system that helps people **prepare, adapt, and protect their careers**.
+
+---
+
+## 🚀 Ambition & Long-Term Vision
+
+The ambition behind LayoffShield AI is to act as a **career risk intelligence system**.
+
+My long-term vision is to evolve this project into:
+
+* A tool that continuously evaluates layoff risk across industries
+* A platform that guides professionals on **what skills to learn next**
+* A system that helps people stay employable instead of reacting to job loss
+
+LayoffShield is not meant to predict fear — it is meant to enable **preparedness and control**.
+
+---
+
+## 🧠 Project Goals
+
+The core goals of this project are:
+
+1. **Predict Layoff Risk**
+
+   * Use historical company, industry, funding, and layoff data
+   * Classify companies into Low, Medium, or High layoff risk
+
+2. **Understand Market Behavior**
+
+   * Analyze how layoffs vary across time, industry, and geography
+   * Provide macro-level insights through visualizations
+
+3. **Provide Actionable Recommendations**
+
+   * Translate predictions into skill recommendations
+   * Help individuals upskill proactively based on risk level
+
+4. **Build an Explainable ML System**
+
+   * Avoid black-box predictions
+   * Use feature importance and clear logic to justify outcomes
+
+---
+
