@@ -1,0 +1,50 @@
+## 🛠️ Tools & Technologies Used
+
+This project was built using tools that are widely adopted in real-world data science and machine learning workflows:
+
+* **Python** – Core programming language
+* **Pandas & NumPy** – Data manipulation and numerical processing
+* **Matplotlib** – Data visualization and trend analysis
+* **Scikit-learn** –
+
+  * Feature encoding
+  * Train-test split
+  * RandomForestClassifier
+  * Model evaluation and interpretability
+* **Jupyter Notebook / Google Colab** –
+
+  * Experimentation
+  * Step-by-step pipeline development
+
+These tools were chosen to ensure:
+
+* Reproducibility
+* Interpretability
+* Alignment with industry-standard ML practices
+
+---
+
+## 🌍 How LayoffShield AI Helps
+
+LayoffShield AI helps at **multiple levels**:
+
+* **For Individuals**
+
+  * Understand their layoff risk context
+  * Identify skills that increase job safety
+  * Take proactive career decisions
+
+* **For Recruiters & Analysts**
+
+  * Analyze industry and company-level layoff patterns
+  * Gain insights into market instability
+
+* **For Future Extensions**
+
+  * Can be expanded into dashboards, APIs, or career platforms
+  * Can integrate real-time job market and skill demand data
+
+---
+
+
+---
